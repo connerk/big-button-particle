@@ -1,0 +1,17 @@
+{
+    "settings": {
+        "extensions.ignoreRecommendations": true,
+        "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+        "files.associations": {
+            "*.ino": "cpp"
+        },
+        "particle.targetPlatform": "electron",
+        "particle.targetDevice": "big-button",
+        "particle.firmwareVersion": "0.7.0"
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+}
